@@ -1,6 +1,8 @@
 # downloadbook
 pip package to download pdf/mobi/epub files from a website
 
+[pip package info](https://pypi.org/project/downloadbook/#description)
+
 ## How to install
 ```
 pip install downloadbook
